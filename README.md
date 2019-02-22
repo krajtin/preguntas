@@ -1,2 +1,0 @@
-# preguntas
-Created with CodeSandbox
